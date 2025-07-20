@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/university-dashboard/static/css/main.77f4f1af.css",
+    "main.js": "/university-dashboard/static/js/main.7062b884.js",
+    "static/js/453.04ece411.chunk.js": "/university-dashboard/static/js/453.04ece411.chunk.js",
+    "index.html": "/university-dashboard/index.html",
+    "main.77f4f1af.css.map": "/university-dashboard/static/css/main.77f4f1af.css.map",
+    "main.7062b884.js.map": "/university-dashboard/static/js/main.7062b884.js.map",
+    "453.04ece411.chunk.js.map": "/university-dashboard/static/js/453.04ece411.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77f4f1af.css",
+    "static/js/main.7062b884.js"
+  ]
+}
